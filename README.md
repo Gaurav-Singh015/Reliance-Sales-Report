@@ -1,4 +1,4 @@
-# Reliance-Sales-Report
+# Reliance-Sales-Report(Dashboard)
 This dashboard analyzes Reliance SMART’s revenue, profit, returns, and brand performance. With charts and maps, it tracks sales trends, helping stakeholders make informed, strategic business decisions. 
 - Revenue Trends: How has monthly revenue changed compared to previous periods?
 - Profit Insights: What is the profit margin across different brands and products?
